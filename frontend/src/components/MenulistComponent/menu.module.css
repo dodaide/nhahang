@@ -1,0 +1,42 @@
+.filter{
+    font-size: 2rem;
+    padding-bottom: 40px;
+}
+.filter a{
+    color: white;
+}
+.cardTitle, .cardDes{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+    line-height: unset;
+}
+
+.cardLink{
+    color: black;
+    text-decoration: none;
+}
+
+.cardTitle{
+    -webkit-line-clamp: 1;
+}
+
+.cardDes{
+    -webkit-line-clamp: 2;
+    height: 48px;
+}
+
+.cardSale{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.cardPrice{
+    display: block;
+    color: red;
+}
+
+.filter{
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.slick-arrow{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+.slick-next{
+    right: 12px;
+}
+.slick-prev{
+    left: 12px;
+    z-index: 1;
+}
+.slick-prev:before, .slick-next:before{
+    font-size: 60px;
+}
+.slick-slide img{
+    display: unset;
+}
+.slider{
+    margin-top: 56.2px;
+}

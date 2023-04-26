@@ -1,0 +1,19 @@
+.container{
+    padding: 60px 0px;
+}
+.fogotPassword{
+    text-align: center;
+    text-decoration: none;
+    line-height: 2rem;
+}
+.register{
+    margin-top: 40px;
+}
+.modalContent{
+    padding: 40px;
+}
+
+.img{
+    height: 100%;
+    object-fit: cover;
+}

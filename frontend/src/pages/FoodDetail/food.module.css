@@ -1,0 +1,22 @@
+.container{
+    padding-top: 100px;
+    min-height: calc(100vh - 72px);
+}
+
+.cardSale{
+    margin-bottom: 8px;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+}
+
+.cardPrice{
+    color: red;
+    margin-right: 20px;
+}
+
+.cardAmount{
+    display: block;
+    width: 100px;
+    margin-right: 20px;
+}

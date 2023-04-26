@@ -1,0 +1,22 @@
+.firstIntro{
+    justify-content: center;
+    text-align: center;
+    margin: 60px 0px 60px 0px !important;
+}
+
+.introBlog{
+    margin: 60px 0px 60px 0px !important;
+    align-items: center;
+}
+
+.midBlog{
+    background-color: rgb(240, 240, 240);
+    padding: 60px 0px 60px;
+}
+.midBlog .introBlog{
+    margin: 0px;
+}
+
+.introImg{
+    width: 100%;
+}

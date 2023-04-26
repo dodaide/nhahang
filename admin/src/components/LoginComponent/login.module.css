@@ -1,0 +1,10 @@
+.container{
+    height: calc(100vh - 72px);
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+.title{
+    text-align: center;
+    margin: 40px;
+}

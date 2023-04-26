@@ -1,0 +1,31 @@
+.container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.avatar{
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.blogContainer, .avatarContainer{
+    display: flex;
+    align-items: center;
+}
+.blogContainer{
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.socialMedia{
+    list-style: none;
+    display: flex;
+    margin: 0px;
+    font-size: 1.5rem;
+}
+.socialMediaItem{
+    margin-left: 20px;
+}
+.title{
+    text-align: center;
+}
+.chooseImg{
+    margin-bottom: 100px;
+}

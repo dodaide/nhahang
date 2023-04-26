@@ -1,0 +1,7 @@
+.container{
+    padding-top: 100px;
+    min-height: calc(100vh - 72px);
+}
+.chooseFile{
+    margin-top: 20px;
+}
